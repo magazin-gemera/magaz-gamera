@@ -1,0 +1,16 @@
+.cont-1{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.box{
+    border: 1px solid blueviolet;
+    flex-basis: 20%;
+
+}
+.box-2{
+    border: 1px solid blueviolet;
+    
+    flex-basis: 40%;
+}
